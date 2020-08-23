@@ -44,7 +44,8 @@ To run the server
   * `Type: npm start` 
   * `Local:   http://localhost:8081/`
 
-  
+Open `http://localhost:8080/` in your browser.
+
 ## Built With
 
 * Vue.js
