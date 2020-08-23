@@ -1,0 +1,12 @@
+{
+  "dbConnecton" :{
+    "host"     : "localhost",
+    "user"     : "root",
+    "password" : "",
+    "database" : "urls"
+  },
+  "Urls":{
+    "baseUrl": "http://localhost:8081"
+  }
+
+}
