@@ -31,14 +31,14 @@ Setup connection
   
   
 To run the client
-* `Go to \Short_Url_Service\client\short_url`
+* `Go to \Short_Url_Service\client\short_url\`
   * `Open a Terminal`
   * `Type: npm install`
   * `Type: npm run serve`
   * `Local:   http://localhost:8080/`
 
 To run the server
-* `Go to \Short_Url_Service\server`
+* `Go to \Short_Url_Service\server\`
   * `Open a Terminal`
   * `Type: npm install`
   * `Type: npm start` 
