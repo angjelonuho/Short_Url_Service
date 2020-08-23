@@ -35,12 +35,14 @@ To run the client
   * `Open a Terminal`
   * `Type: npm install`
   * `Type: npm run serve`
+  * `Local:   http://localhost:8080/`
 
 To run the server
 * `Go to \Short_Url_Service\server`
   * `Open a Terminal`
   * `Type: npm install`
-  * `Type: npm start`  
+  * `Type: npm start` 
+  * `Local:   http://localhost:8081/`
 
   
 ## Built With
