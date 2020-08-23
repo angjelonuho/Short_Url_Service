@@ -21,15 +21,7 @@ To setup the database
   * `Start Apache and Mysql`
   * `Go to Mysql Admin`
   * `Create a Database with the name: urls`  
-  
-Setup connection
-* `Go to \Short_Url_Service\server\settings.json`
-  * `These are the connectin settings leave everything as it is. If you wish to change them 3 files will be affected:`
-  * `\Short_Url_Service\server\settings.json`
-  * `\Short_Url_Service\server\app.js`
-  * Client side: `\Short_Url_Service\client\short_url\src\services\Api.js`
-  
-  
+    
 To run the client
 * `Go to \Short_Url_Service\client\short_url\`
   * `Open a Terminal`
@@ -43,6 +35,13 @@ To run the server
   * `Type: npm install`
   * `Type: npm start` 
   * `Local:   http://localhost:8081/`
+  
+Setup connection
+* `Go to \Short_Url_Service\server\settings.json`
+  * `These are the connectin settings leave everything as it is. If you wish to change them 3 files will be affected:`
+  * `\Short_Url_Service\server\settings.json`
+  * `\Short_Url_Service\server\app.js`
+  * Client side: `\Short_Url_Service\client\short_url\src\services\Api.js`
 
 Open `http://localhost:8080/` in your browser.
 
