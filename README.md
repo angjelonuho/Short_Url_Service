@@ -53,7 +53,3 @@ Open `http://localhost:8080/` in your browser.
 
 ## Authors
 * *Angjelo Nuho*
-
-
-## Authors
-* *Angjelo Nuho*
